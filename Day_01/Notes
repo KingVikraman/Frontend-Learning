@@ -1,0 +1,162 @@
+# 📘 Day 1 — HTML Basics Notes
+
+## 🧠 Core Idea: What HTML Really Is
+
+HTML (HyperText Markup Language) is used to define **structure and meaning** of content on a webpage.
+
+It does NOT control:
+
+* Colors
+* Fonts
+* Layout positioning
+
+Those belong to CSS.
+
+---
+
+## 🧩 Example: Headings (`<h1>`)
+
+```html
+<h1>Welcome to My Website</h1>
+```
+
+### Meaning:
+
+This is the most important heading on the page.
+
+### What the browser does automatically:
+
+* Makes it large
+* Makes it bold
+* Adds spacing
+
+Because browsers apply **default styling rules**.
+
+---
+
+## 🏠 HTML Analogy
+
+```html
+<h1>Kitchen</h1>
+```
+
+HTML is saying:
+
+* This is a kitchen (meaning/structure)
+
+HTML is NOT saying:
+
+* Paint the walls white
+* Put marble countertops
+* Place fridge on the left
+
+Those decisions belong to **CSS (design layer)**.
+
+---
+
+## 🧱 Responsibilities in Web Development
+
+| Technology | Responsibility           |
+| ---------- | ------------------------ |
+| HTML       | Structure and meaning    |
+| CSS        | Appearance and layout    |
+| JavaScript | Behavior and interaction |
+
+---
+
+## 🧬 Mental Model
+
+* HTML = Skeleton (structure)
+* CSS = Clothing (appearance)
+* JavaScript = Muscles (movement & behavior)
+
+---
+
+## 📦 Lists in HTML
+
+### Example:
+
+```html
+<ul>
+    <li>Drone</li>
+    <li>Camera</li>
+    <li>Laptop</li>
+</ul>
+```
+
+---
+
+## 📌 `<ul>` — Unordered List
+
+Used when order does NOT matter.
+
+### Meaning:
+
+A collection of items with equal importance.
+
+### Example:
+
+* Milk
+* Eggs
+* Bread
+
+Reordering does NOT change meaning.
+
+---
+
+## 🔢 `<ol>` — Ordered List
+
+Used when order DOES matter.
+
+### Meaning:
+
+A sequence of steps or ranked items.
+
+### Example:
+
+1. Step 1: Open VS Code
+2. Step 2: Create file
+3. Step 3: Write HTML
+
+If order changes, meaning becomes confusing.
+
+---
+
+## 🧩 `<li>` — List Item
+
+Each item inside:
+
+* `<ul>` or `<ol>`
+
+Represents a single entry in the list.
+
+---
+
+## ⚠️ Key Insight
+
+* HTML does NOT execute logic
+* HTML describes structure and meaning
+* The browser only renders what is described
+
+---
+
+## 🧠 Final Mental Model
+
+| Concept | Meaning                              |
+| ------- | ------------------------------------ |
+| `<ul>`  | Group of items (no order importance) |
+| `<ol>`  | Sequence of steps (order matters)    |
+| `<li>`  | Single item inside a list            |
+
+---
+
+## 🎯 Takeaway
+
+HTML is not about “what happens first”.
+
+It is about:
+
+> “What does this content represent to a human reader?”
+
+---
+
