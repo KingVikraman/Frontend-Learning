@@ -19,7 +19,6 @@ The better question is:
 > "What does this content represent?"
 
 ---
-
 # 🧠 Core Realization
 
 Both of these work:
@@ -38,19 +37,19 @@ and
 
 ```html
 <header>
-    <h1>Raja Vikraman</h1>
+	<h1>Raja Vikraman</h1>
 </header>
 
 <nav>
-    <a href="hobbies.html">Hobbies</a>
+	<a href="hobbies.html">Hobbies</a>
 </nav>
 
 <main>
-    <p>Hello</p>
+	<p>Hello</p>
 </main>
 
 <footer>
-    <p>Created by Raja</p>
+	<p>Created by Raja</p>
 </footer>
 ```
 
@@ -78,7 +77,7 @@ Example:
 
 ```html
 <header>
-    <h1>Raja Vikraman</h1>
+	<h1>Raja Vikraman</h1>
 </header>
 ```
 
@@ -94,8 +93,8 @@ Example:
 
 ```html
 <nav>
-    <a href="index.html">Home</a>
-    <a href="hobbies.html">Hobbies</a>
+	<a href="index.html">Home</a>
+	<a href="hobbies.html">Hobbies</a>
 </nav>
 ```
 
@@ -117,7 +116,7 @@ Example:
 
 ```html
 <main>
-    ...
+	...
 </main>
 ```
 
@@ -133,8 +132,8 @@ Example:
 
 ```html
 <section>
-    <h2>About Me</h2>
-    <p>Computer Science Student...</p>
+	<h2>About Me</h2>
+	<p>Computer Science Student...</p>
 </section>
 ```
 
@@ -160,7 +159,7 @@ Example:
 
 ```html
 <footer>
-    <p>© 2026 Raja Vikraman</p>
+	<p>© 2026 Raja Vikraman</p>
 </footer>
 ```
 
@@ -207,9 +206,9 @@ Example:
 
 ```html
 <ul>
-    <li>RC Cars</li>
-    <li>Photography</li>
-    <li>Dioramas</li>
+	<li>RC Cars</li>
+	<li>Photography</li>
+	<li>Dioramas</li>
 </ul>
 ```
 
@@ -234,9 +233,9 @@ Example:
 
 ```html
 <section>
-    <h2>RC Cars</h2>
-    <p>Information about RC Cars...</p>
-    <img src="cars.jpeg" alt="RC Cars Collection">
+	<h2>RC Cars</h2>
+	<p>Information about RC Cars...</p>
+	<img src="cars.jpeg" alt="RC Cars Collection">
 </section>
 ```
 
@@ -265,7 +264,7 @@ Use:
 
 ```html
 <ul>
-    <li>...</li>
+	<li>...</li>
 </ul>
 ```
 
@@ -279,7 +278,7 @@ Use:
 
 ```html
 <section>
-    ...
+	...
 </section>
 ```
 
