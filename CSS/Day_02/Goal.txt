@@ -1,0 +1,21 @@
+📘 Day 02 Goal: Selectors
+
+By the end of today you should understand:
+
+Element selectors
+Class selectors
+ID selectors
+Why classes are used so often
+
+
+Progress Tracker:
+
+HTML Day_01 ✅
+HTML Day_02 ✅
+HTML Day_03 ✅
+HTML Day_04 ✅
+
+CSS Day_01 ✅
+CSS Day_02 ✅
+CSS Day_03 ⏳
+CSS Day_04 ⏳
