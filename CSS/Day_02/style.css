@@ -1,0 +1,19 @@
+/* ID Selector */
+
+#main-title {
+    color: blue;
+}
+
+
+/* Class Selector */
+
+.important {
+    font-weight: bold;
+}
+
+
+/* Another Class Selector */
+
+.warning {
+    color: red;
+}
