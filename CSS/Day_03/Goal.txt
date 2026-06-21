@@ -1,0 +1,9 @@
+# 🎯 CSS Day_03 Goal
+
+Today, you will learn:
+
+> **The Box Model**
+
+This is probably the **single most important CSS concept**.
+
+Almost every website is made of boxes.
