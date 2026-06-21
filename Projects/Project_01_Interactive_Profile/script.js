@@ -1,3 +1,8 @@
 let title = document.getElementById("title");
+let button = document.getElementById("button");
 
-title.textContent = "Welcome Raja";
+button.addEventListener("click", function()
+{
+	title.textContent = "Welcome Raja";
+
+});
